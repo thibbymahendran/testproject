@@ -1,4 +1,4 @@
-
+""" test """
 import click
 
 @click.command( context_settings={"token_normalize_func":str.lower} )
